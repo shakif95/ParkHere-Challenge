@@ -1,3 +1,6 @@
+# Parking Lot Reservation System
+All changes are made in the branch `feat-reserversation-service`.
+
 # How to run the project?
 
 1. Clone the repository
